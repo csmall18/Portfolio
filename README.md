@@ -1,2 +1,2 @@
 # projects
-This github just contains personal projects and school work I've made over the years.
+This github just contains personal projects and school work I've done over the years. The C++ projects were compiled and run in JetBrains CLion.
